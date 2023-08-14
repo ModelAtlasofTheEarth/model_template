@@ -1,20 +1,21 @@
 Welcome! This is a template repository for submitting models to **M@TE**. 
 
-How this works...
+How model submission works...
 -----
 
 <details><summary>CLICK TO EXPAND</summary>
 <p>
 
-If you have a model to submit to M@TE:
 
-* fork this template and rename using this convention:
-  * `creatorname_year_keyword` (e.g. `corcho_2022_collision`)
-* populate this document (`Readme.md`) with all relevant information
+* __fork this template__ and rename using this convention: `creatorname_year_keyword` (e.g. `corcho_2022_collision`)
+* populate this document (`Readme.md`) with as much information as you can
 * information/files related to __model reproduction__ is recorded in `model_reproduction`
-* information related to __model output__ data is kept in`model_data`
 * files to display your model on <https://www.mate.science> are submitted in `website_files`
 * submit a pull request to merge this model into M@TE
+
+> **Note**
+> We are here to help with this process. TThe Wiki provides further information. 
+> Alternatively, create a Github Issue if you have problems or questions. 
 
   
 </p>
