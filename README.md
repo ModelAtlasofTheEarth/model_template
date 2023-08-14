@@ -1,7 +1,10 @@
-Welcome! This is a template repository for submitting models to M@TE. 
+Welcome! This is a template repository for submitting models to **M@TE**. 
 
 How this works...
 -----
+
+<details><summary>CLICK TO EXPAND</summary>
+<p>
 
 If you have a model to submit to M@TE:
 
@@ -13,9 +16,15 @@ If you have a model to submit to M@TE:
 * files to display your model on <https://www.mate.science> are submitted in `website_files`
 * submit a pull request to merge this model into M@TE
 
+  
+</p>
+</details>
+
 About your model
 -----
 
+<details><summary>CLICK TO EXPAND</summary>
+<p>
 
 **Title**
 
@@ -25,14 +34,13 @@ _A brief title for your model_
 
 _An abstract for your model (preferrably plain language)_
 
-** List of keywords ** 
+**Keywords** 
 
 * _keyword(s) 1
 * _keyword(s) 2_
 
 **Field of research (FOR)**
 
-**List of FORs** 
 * _FOR 1_
 * _FOR 2_
 
@@ -43,14 +51,18 @@ FORs lookup: <https://vocabs.ardc.edu.au/viewById/316>
 - [ ] published study
 - [ ] commmunity benchmark
 - [ ] reproduction of published model
+- [ ] Dataless model (data have vanished, needs rebuilding)
 
 
-**Website material**
+</p>
+</details>
 
-Please add files and additional information in the `model_reproduction` folder
 
 Model reproduction (input files / software details)
 -----
+
+<details><summary>CLICK TO EXPAND</summary>
+<p>
 
 - [ ] we are submitting model input files
 - [ ] we are submitting model postprocessing files
@@ -58,8 +70,29 @@ Model reproduction (input files / software details)
 
 Please add files and additional information in the `model_reproduction` folder
 
+</p>
+</details>
+
+Website material
+-----
+
+<details><summary>CLICK TO EXPAND</summary>
+<p>
+
+Please add files and additional information in the `model_reproduction` folder
+
+
+
+</p>
+</details>
+
+
+
 Output data
 -----
+
+<details><summary>CLICK TO EXPAND</summary>
+<p>
 
 > **Note**
 > If the following box is ticked, the M@TE team will contact you with details for uploading data.
@@ -68,9 +101,13 @@ Output data
 
 Please add additional information in the `model_reproduction` folder. 
 
+</p>
+</details>
 
 Attribution
 -----
+<details><summary>CLICK TO EXPAND</summary>
+<p>
 
 **Associated publication**
 
@@ -86,11 +123,20 @@ We recommend a creative commons license, and you can use the following website t
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 
+/p>
+</details>
 
 ### NCI details
+
+<details><summary>CLICK To EXPAND</summary>
+<p>
+
 
 **Local NCI file path**
 
 **DOI (NCI Internal Field)**
+
+/p>
+</details>
 
 
