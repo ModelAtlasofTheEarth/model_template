@@ -25,19 +25,18 @@ _A brief title for your model_
 
 _An abstract for your model (preferrably plain language)_
 
-**Keyword/s**
+** List of keywords ** 
 
-_keyword(s) 1_
-
-_keyword(s) 2_
+* _keyword(s) 1
+* _keyword(s) 2_
 
 **Field of research (FOR)**
 
-_FOR 1_
+** List of FORs ** 
+* _FOR 1_
+* _FOR 2_
 
-_FOR 2_
-
-<https://vocabs.ardc.edu.au/viewById/316>
+FORs lookup: <https://vocabs.ardc.edu.au/viewById/316>
 
 **Model  Type Tags**
 
