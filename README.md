@@ -6,10 +6,10 @@ Welcome! This is a template repository for submitting models to M@TE.
 If you have a model to submit to M@TE:
 
 * fork this template and rename repository, using this convention `creatorname_year_keyword`
-* populate out this document (`Readme.md`) with all relevant information,
-* information/files related to Model reproduction is recorded in `model_reproduction`
-* information related to Model output data is kept in`model_data`
-* files to display your model on <https://www.mate.science> are submitted in `web_data`
+* populate this document (`Readme.md`) with all relevant information
+* information/files related to __model reproduction__ is recorded in `model_reproduction`
+* information related to __model output__ data is kept in`model_data`
+* files to display your model on <https://www.mate.science> are submitted in `website_files`
 * submit a pull request to merge this model into M@TE
 
 About your model
