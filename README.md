@@ -64,7 +64,7 @@ Output data
 > **Note**
 > If the following box is ticked, the M@TE team will contact you with details for uploading data.
 
-- [] we are submitting model output data
+- [ ] we are submitting model output data
 
 Please add additional information in the `model_reproduction` folder. 
 
