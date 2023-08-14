@@ -58,7 +58,7 @@ FORs lookup: <https://vocabs.ardc.edu.au/viewById/316>
 </details>
 
 
-Model reproduction (input files / software details)
+Model reproduction
 -----
 
 <details><summary>CLICK TO EXPAND</summary>
@@ -73,18 +73,6 @@ Please add files and additional information in the `model_reproduction` folder
 </p>
 </details>
 
-Website material
------
-
-<details><summary>CLICK TO EXPAND</summary>
-<p>
-
-Please add files and additional information in the `model_reproduction` folder, and describe these using the following table:
-
-
-
-</p>
-</details>
 
 
 
@@ -110,6 +98,22 @@ Output data
 </p>
 </details>
 
+
+Website material
+-----
+
+<details><summary>CLICK TO EXPAND</summary>
+<p>
+
+Please add files and additional information in the `model_reproduction` folder, and describe these using the following table:
+
+
+
+</p>
+</details>
+
+
+
 Attribution
 -----
 <details><summary>CLICK TO EXPAND</summary>
@@ -132,15 +136,12 @@ We encourage model creators to issue a single licence that will cover all materi
 We recommend a creative commons license, and you can use the following website to choose from a range of options <Chttps://creativecommons.org/choose/>
 
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
 </p>
 </details>
 
 
 
 
-
-
-/p>
-</details>
 
 
