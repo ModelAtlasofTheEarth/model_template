@@ -79,7 +79,7 @@ Website material
 <details><summary>CLICK TO EXPAND</summary>
 <p>
 
-Please add files and additional information in the `model_reproduction` folder
+Please add files and additional information in the `model_reproduction` folder, and describe these using the following table:
 
 
 
@@ -99,7 +99,13 @@ Output data
 
 - [ ] we are submitting model output data
 
-Please add additional information in the `model_reproduction` folder. 
+
+**Local NCI file path**
+
+
+
+**DOI (NCI Internal Field)**
+
 
 </p>
 </details>
@@ -126,15 +132,10 @@ We recommend a creative commons license, and you can use the following website t
 /p>
 </details>
 
-### NCI details
-
-<details><summary>CLICK To EXPAND</summary>
-<p>
 
 
-**Local NCI file path**
 
-**DOI (NCI Internal Field)**
+
 
 /p>
 </details>
