@@ -19,24 +19,30 @@ About your model
 
 **Title**
 
-_A brief title for your model_
+The Role of Lithospheric-Deep Mantle Interactions on the
+Style and Stress Evolution of Arc-Continent Collision
 
 **Abstract**
 
-_An abstract for your model (preferrably plain language)_
+Continents grow by the successive accretion of material to their
+margins, mostly collision and accretion of intra-oceanic magmatic arcs. We investigate the effect of arc
+buoyancy and viscosity on the mode of collision, and the effects on the margin using a computer modeling
+approach. Our simulations show that upon collision, it is a small differential in density (3%) between the
+colliding arc and the continental margin that dictates whether subduction continues or stops after collision. In
+addition, our models show that arc buoyancy and viscosity drive lithospheric extension in the continental plate.
+Also, as the subducting slab reaches a mantle discontinuity at 660 km depth, it folds and causes strain and stress
+fluctuations on the margin.
 
 
 **List of keywords** 
 
-* _keyword(s) 1
-* _keyword(s) 2_
+* collision
+* subduction
 
 **Field of research (FOR)**
 
-**List of FORs** 
-
-* _FOR 1_
-* _FOR 2_
+* 3706
+* 370604
 
 FORs lookup: <https://vocabs.ardc.edu.au/viewById/316>
 
@@ -45,7 +51,7 @@ FORs lookup: <https://vocabs.ardc.edu.au/viewById/316>
 
 **Model  Type Tags**
 
-- [ ] published study
+- [x] published study
 - [ ] commmunity benchmark
 - [ ] reproduction of published model
 
@@ -57,8 +63,8 @@ Please add files and additional information in the `model_reproduction` folder
 Model reproduction (input files / software details)
 -----
 
-- [ ] we are submitting model input files
-- [ ] we are submitting model postprocessing files
+- [x] we are submitting model input files
+- [x] we are submitting model postprocessing files
 - [ ] we are submitting software container
 
 Please add files and additional information in the `model_reproduction` folder
@@ -69,7 +75,7 @@ Output data
 > **Note**
 > If the following box is ticked, the M@TE team will contact you with details for uploading data.
 
-- [ ] we are submitting model output data
+- [x] we are submitting model output data
 
 Please add additional information in the `model_reproduction` folder. 
 
