@@ -32,7 +32,7 @@ _An abstract for your model (preferrably plain language)_
 
 **Field of research (FOR)**
 
-** List of FORs ** 
+**List of FORs** 
 * _FOR 1_
 * _FOR 2_
 
