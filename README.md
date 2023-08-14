@@ -5,7 +5,8 @@ Welcome! This is a template repository for submitting models to M@TE.
 
 If you have a model to submit to M@TE:
 
-* fork this template and rename repository, using this convention `creatorname_year_keyword`
+* fork this template and rename using this convention:
+  * `creatorname_year_keyword`
 * populate this document (`Readme.md`) with all relevant information
 * information/files related to __model reproduction__ is recorded in `model_reproduction`
 * information related to __model output__ data is kept in`model_data`
