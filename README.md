@@ -153,23 +153,31 @@ Attribution
 <details><summary>CLICK TO EXPAND</summary>
 <p>
 
-**Associated publication**
-Please add bib entries for any associated publication to `CITATIONS.bib`
 
-> **Note**
+Field | Value | Notes
+--- | --- | ---
+**Associated publication DOI** | DOI | 
+**Funder(s)** |  Please add rows as required if more than 1 funder. | 
+**Author(s)** | Either use "refer to publication", or Author 1 (Last name, first name, organisation name, email address, ORCID ID)| 
+**Licence** | <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. | 
+
+> **Note on Publictions**
+> Please also add bib entries for any associated publication to `CITATIONS.bib`
 > A bib entry is simple a block o plain text, you can get cipt this from the `cite` tool in Google Scholar, or from many journal webpages 
 
-**Funder(s)**
+> **Note on Licence**
+> We encourage model creators to issue a single licence that will cover all material sumbitted to M@TE.
+> We recommend a creative commons license, and you can use the following website to choose from a range of options <Chttps://creativecommons.org/choose/> 
 
-**Author(s)**
+
 
 **Licence**
 
-We encourage model creators to issue a single licence that will cover all material sumbitted to M@TE.
 
-We recommend a creative commons license, and you can use the following website to choose from a range of options <Chttps://creativecommons.org/choose/>
 
-<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+
+
+
 
 </p>
 </details>
