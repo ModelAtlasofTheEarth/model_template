@@ -1,4 +1,4 @@
-Welcome! This is a template repository for submitting models to **M@TE**. 
+Welcome! This is a template repository for submitting models to Model Atlas of The Earth (**M@TE**). 
 
 How model submission works...
 -----
@@ -7,13 +7,14 @@ How model submission works...
 <p>
 
 
-* __fork this template__ and rename using this convention: `creatorname_year_keyword` (e.g. `corcho_2022_collision`)
+* __fork this template__ and rename using this convention:
+   * `creatorname_year_keyword` (e.g. `corcho_2022_collision`)
 * populate this document (`Readme.md`) with as much information as you can
-  * information is recorded in Tables and Tags
-* submit a pull request to merge this model into M@TE
+  * information is recorded in _Tables_ (Metadata fields) and additional _Tags_
+* submit a pull request to merge this model into the ModelAtlasofTheEarth
 
 > **Note**
-> The Wiki provides further information on submission. 
+> The Wiki provides more detailed information on submission. 
 > Create a Github Issue if you have problems or questions. 
 
   
@@ -37,6 +38,9 @@ Field | Value | Notes
 
 
 **Tags**
+
+> **Note**
+> Place an X in in the boxes to select!
 
 - [ ] published study
 - [ ] commmunity benchmark
