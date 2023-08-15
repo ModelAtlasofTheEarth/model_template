@@ -122,7 +122,29 @@ Website material
 <details><summary>CLICK TO EXPAND</summary>
 <p>
 
-Please add files and additional information in the `model_reproduction` folder, and describe these using the following table:
+
+> **Note**
+> To feature your model on our website (<https://mate.science>), we will require some images/animations and captions.
+> Please add files and additional information in the `model_reproduction` folder, and describe these files using the following table:
+
+File | Purpose | Description
+--- | --- | ---
+`image1.png` | landing page image | description of `image1.png`, Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+`filex.png` | visual abstract | description of `filex.jpg`
+`model_animation.avi` | animation | description of `model_animation.avi`
+
+
+Acceptible file formats:
+
+* PNG
+* JPEG
+* PDF
+
+Maximum file size:
+
+image < 2 Mb (?)
+animations < 10 Mb (?)
+
 
 
 
