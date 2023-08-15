@@ -31,10 +31,10 @@ About your model
 
 Field | Value | Notes
 --- | --- | ---
-**Title** | _A brief title for your model_ | ...
-**Abstract** | _An abstract for your model (preferrably plain language)_ | 
-**Keywords** | _keyword 1_ (add rows as needed) | 
-**Field of research (FOR) code** | FOR code1 ( see <https://vocabs.ardc.edu.au/viewById/316>, add rows as needed) | 
+**Title** |The Role of Lithospheric-Deep Mantle Interactions on the Style and Stress Evolution of Arc-Continent Collision | ...
+**Abstract** | Continents grow by the successive accretion of material to their margins, mostly collision and accretion of intra-oceanic magmatic arcs. We investigate the effect of arc buoyancy and viscosity on the mode of collision, and the effects on the margin using a computer modeling approach. Our simulations show that upon collision, it is a small differential in density (3%) between the colliding arc and the continental margin that dictates whether subduction continues or stops after collision. In addition, our models show that arc buoyancy and viscosity drive lithospheric extension in the continental plate. Also, as the subducting slab reaches a mantle discontinuity at 660 km depth, it folds and causes strain and stress fluctuations on the margin.| 
+**Keywords** | Collision, subduction, accretion | 
+**Field of research (FOR) code** | 3706,370604  | 
 
 
 **Metadata  Tags**
@@ -42,7 +42,7 @@ Field | Value | Notes
 > **Note**
 > Place an X in in the boxes to select!
 
-- [ ] published study
+- [X] published study
 - [ ] commmunity benchmark
 - [ ] reproduction of published model
 - [ ] missing data model (needs rebuilding by community)
