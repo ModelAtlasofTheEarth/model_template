@@ -9,8 +9,7 @@ How model submission works...
 
 * __fork this template__ and rename using this convention: `creatorname_year_keyword` (e.g. `corcho_2022_collision`)
 * populate this document (`Readme.md`) with as much information as you can
-* information/files related to __model reproduction__ is recorded in `model_reproduction`
-* files to display your model on <https://www.mate.science> are submitted in `website_files`
+  * information is recorded in Tables and Tags
 * submit a pull request to merge this model into M@TE
 
 > **Note**
