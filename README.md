@@ -33,7 +33,7 @@ Field | Value | Notes
 **Title** | _A brief title for your model_ | ...
 **Abstract** | _An abstract for your model (preferrably plain language)_ | 
 **Keywords** | _keyword 1_ (add rows as needed) | 
-**Field of research (FOR) code** | FOR code1 (add rows as needed) | see <https://vocabs.ardc.edu.au/viewById/316>
+**Field of research (FOR) code** | FOR code1 ( see <https://vocabs.ardc.edu.au/viewById/316>, add rows as needed) | 
 
 
 **Tags**
