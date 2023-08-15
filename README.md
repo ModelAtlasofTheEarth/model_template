@@ -32,8 +32,8 @@ Field | Value | Notes
 --- | --- | ---
 **Title** | _A brief title for your model_ | ...
 **Abstract** | _An abstract for your model (preferrably plain language)_ | 
-**Keywords** | _keyword 1_ (add more rows) | 
-**Field of research (FOR)** | FOR #1 | see <https://vocabs.ardc.edu.au/viewById/316>
+**Keywords** | _keyword 1_ (add rows as needed) | 
+**Field of research (FOR) code** | FOR code1 (add rows as needed) | see <https://vocabs.ardc.edu.au/viewById/316>
 
 
 **Tags**
@@ -48,7 +48,7 @@ Field | Value | Notes
 </details>
 
 
-Computation and reproduction
+Model computation and reproduction
 -----
 
 <details><summary>CLICK TO EXPAND</summary>
@@ -84,7 +84,7 @@ Please add any addition files relate to computation and reproduction to the `mod
 
 
 
-Output data
+Model output data
 -----
 
 <details><summary>CLICK TO EXPAND</summary>
@@ -95,7 +95,6 @@ Output data
 
 - [ ] we are submitting model output data
 
-
 > **Note**
 > If the above box is ticked, the M@TE team will contact you with details for uploading data. Please fill out the metadata fields below. 
   
@@ -104,12 +103,12 @@ Output data
 Field | Value | Notes
 --- | --- | ---
 **Dataset format** | File format used for this dataset. e.g., NetCDF4, CSV, GeoTIFF, etc. | 
-**Dataset status** |Please state if this version of the dataset is 'completed' or 'ongoing'. For example, if new content is expected or planned at a later date, then 'ongoing' would be the recommended option to select. | 
 **Temporal extents (if applicable)** | e.g.,  Begin time (YYYY/MM/DD, or 50 Myr)  End time (YYYY/MM/DD, or 20 Myr) | ---
 **Spatial extents (if applicable)** | e.g.,  west bounding longitude (degrees), east bounding longitude (degrees)| ---
 **Local NCI file path** | Completed once data are available on NCI Geonetwork Catalog | 
 **DOI (NCI Internal Field)** |Completed once data are available on NCI Geonetwork Catalog | 
-
+**additional notes** | E.g., output data ar saved at time/step increments of (100 Kyr) | 
+**file description** | file pattern (`velocity_**.h5`, `topography.vtk`) (add rows as needed) | description of data associated with this output file type  | 
 
 
 </p>
