@@ -108,13 +108,19 @@ Model output data
 
 Field | Value | Notes
 --- | --- | ---
-**Dataset format** | File format used for this dataset. e.g., NetCDF4, CSV, GeoTIFF, etc. | 
-**Temporal extents (if applicable)** | e.g.,  Begin time (YYYY/MM/DD, or 50 Myr)  End time (YYYY/MM/DD, or 20 Myr) | ---
-**Spatial extents (if applicable)** | e.g.,  west bounding longitude (degrees), east bounding longitude (degrees)| ---
+**Dataset format** | xmf, xdmf, hdf5 | 
+**Temporal extents (if applicable)** | | ---
+**Spatial extents (if applicable)** | | ---
 **Local NCI file path** | Completed once data are available on NCI Geonetwork Catalog | 
 **DOI (NCI Internal Field)** |Completed once data are available on NCI Geonetwork Catalog | 
 **additional notes** | E.g., output data ar saved at time/step increments of (100 Kyr) | 
-**file description** | file pattern (`velocity_**.h5`, `topography.vtk`) (add rows as needed) | description of data associated with this output file type  | 
+
+
+**Output data files**
+
+Filename/pattern| Description | Notes
+--- | --- | ---
+ |  |  | 
 
 
 </p>
