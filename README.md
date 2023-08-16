@@ -211,10 +211,10 @@ Website material
 
 File | Purpose | Caption
 --- | --- | ---
-`image1.png` | landing page image | Caption for `image1.png`, Lorem ipsum dolor sit ame
-`filex.png` | visual abstract |  Schematic illustration of initial model conditions and subsequent post-collisional evolution of the two identified styles of arc-continent collision, whose dynamics are controlled by arc transference and slab-anchoring in less buoyant remnant arcs (see publication for further detail)
-`figx.jpeg` | model setup | (a) Model set up for numerical simulations based on previous research in the dynamics of accretionary continental margins (Moresi et al., 2014). It includes an oceanic subducting plate (dark yellow), an overriding plate composed by a continental (cyan) and cratonic domain (dark blue), and a ribbon of thicker crust representing a remnant = intra-oceanic arc attached to the oceanic plate (red). The upper mantle and the upper-lower mantle boundary are included to capture deep-mantle slab interactions. Orange, yellow, and dark green dots show locations where subducting plate convergence velocity, the trench-retreat velocity and the overriding plate (OP) retreat velocity were measured. The (b–e) profiles show a schematic lithospheric cross-section of the domains considered in our model set-up (see publication for further detail).
-`model_animation.avi` | animation | Caption for of `model_animation.avi`
+`graphic_abstract.png` | visual abstract |  Schematic illustration of initial model conditions and subsequent post-collisional evolution of the two identified styles of arc-continent collision, whose dynamics are controlled by arc transference and slab-anchoring in less buoyant remnant arcs (see publication for further detail)
+`model_setup.jpg` | model setup | (a) Model set up for numerical simulations based on previous research in the dynamics of accretionary continental margins (Moresi et al., 2014). It includes an oceanic subducting plate (dark yellow), an overriding plate composed by a continental (cyan) and cratonic domain (dark blue), and a ribbon of thicker crust representing a remnant = intra-oceanic arc attached to the oceanic plate (red). The upper mantle and the upper-lower mantle boundary are included to capture deep-mantle slab interactions. Orange, yellow, and dark green dots show locations where subducting plate convergence velocity, the trench-retreat velocity and the overriding plate (OP) retreat velocity were measured. The (b–e) profiles show a schematic lithospheric cross-section of the domains considered in our model set-up (see publication for further detail).
+`animation_25.gif` | animation | Evolution of material field for model with 25 km arc crust
+`animation_35.gif` | animation | Evolution of material field for model with 35 km arc crust
 
 
 > **Note**
