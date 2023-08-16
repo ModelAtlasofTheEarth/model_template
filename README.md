@@ -7,11 +7,12 @@ How model submission works...
 <p>
 
 
-* __fork this template__ and rename using this convention:
+* Create a new repository, by clicking on the __Use this template__ button above
+* Name your repository using this convention:
    * `creatorname_year_keyword` (e.g. `corcho_2022_collision`)
 * populate this markdown document (`Readme.md`) with as much information as you can
   * information is recorded in Markdown Tables (Metadata fields) and additional Metadata Tags.
-* submit a pull request to merge this model into the ModelAtlasofTheEarth
+* Final step?
 
 > **Note**
 > The Wiki provides more detailed information on submission. 
@@ -34,7 +35,8 @@ Field | Value | Notes
 **Title** | _A brief title for your model_ | ...
 **Abstract** | _An abstract for your model (preferrably plain language)_ | 
 **Keywords** | _keyword 1_ (add rows as needed) | 
-**Field of research (FOR) code** | FOR code1 ( see <https://vocabs.ardc.edu.au/viewById/316>, add rows as needed) | 
+**Field of research (FOR) code** | E.g., 3706 ( see <https://vocabs.ardc.edu.au/viewById/316>)  (add rows as needed |
+
 
 
 **Metadata  Tags**
@@ -45,7 +47,7 @@ Field | Value | Notes
 - [ ] published study
 - [ ] commmunity benchmark
 - [ ] reproduction of published model
-- [ ] missing data model (needs rebuilding by community)
+- [ ] missing data model (requires rebuilding by community)
 
 
 </p>
@@ -79,18 +81,19 @@ Field | Value | Notes
 **Metadata  Tags**
 
 - [ ] this submission includes input files
-- [ ] this submission includes postprocessing files
 - [ ] this submission includes a software container (i.e. docker image or dockerfile)
+- [ ] this submission includes postprocessing files
+- [ ] postprocessing files are linked to data on the NCI's GeoNetwork (through thredds/OpenDap API)
 
 
 > **Note**
-> Please add any addition files relate to computation and reproduction to the `model_reproduction_files` folder, and describe these in the table below.
+> Please add any addition files relate to computation and reproduction to the `model_files` folder, and describe these in the table below.
 
 **Model reproduction files**
 
 Filename/pattern| Description | Notes
 --- | --- | ---
-**file description** | E.g., `model_reproduction/input.py` (add rows as needed) | description of E.g., `model_reproduction/input.py`  | Additional Info.
+**file description** | E.g., `model_files/input.py` (add rows as needed) | description of E.g., `model_files/input.py`  | Additional Info.
 
 
 
@@ -112,7 +115,9 @@ Model output data
 - [ ] this submission  includes model output data
 
 > **Note**
-> If the above box is ticked, the M@TE team will contact you with details for uploading data. Please fill out the metadata fields below. 
+> If the above box is ticked, the M@TE team will contact you with details for uploading data.
+> Please fill out the **metadata** fields below.
+> If possible, please desribe output data files using the **Output data files**
   
 **Metadata fields**
 
@@ -124,7 +129,13 @@ Field | Value | Notes
 **Local NCI file path** | Completed once data are available on NCI Geonetwork Catalog | 
 **DOI (NCI Internal Field)** |Completed once data are available on NCI Geonetwork Catalog | 
 **additional notes** | E.g., output data ar saved at time/step increments of (100 Kyr) | 
-**file description** | file pattern (`velocity_**.h5`, `topography.vtk`) (add rows as needed) | description of data associated with this output file type  | 
+
+
+**Output data files**
+
+Filename/of File pattern| Description | Notes
+--- | --- | ---
+E.g. `velocity_**.h5`, `topography.csv` | description of data associated with this output file type (add rows as needed)  | 
 
 
 </p>
