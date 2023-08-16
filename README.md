@@ -87,9 +87,10 @@ Field | Value | Notes
 
 
 > **Note**
-> Please add any addition files relate to computation and reproduction to the `model_files` folder, and describe these in the table below.
+> Please add any addition files relate to model execution, reproduction and postprocessing to the `model_files` folder
+> Describe these files in the table below.
 
-**Model reproduction files**
+**Model  files**
 
 Filename/pattern| Description | Notes
 --- | --- | ---
