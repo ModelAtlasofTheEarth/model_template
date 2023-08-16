@@ -139,7 +139,58 @@ Field | Value | Notes
 
 Filename/pattern| Description | Notes
 --- | --- | ---
- |  |  | 
+XDMF.fields.00100.xmf | | 
+XDMF.swarms.00100.xmf | | 
+pressureField-100.h5 | | 
+projDensityField-100.h5 | | 
+projMaterialField-100.h5 | | 
+projMeltField-100.h5 | | 
+projPlasticStrain-100.h5 | | 
+projStressField-100.h5 | | 
+projStressTensor-100.h5 | | 
+projTimeField-100.h5 | | 
+projViscosityField-100.h5 | | 
+strainRateField-100.h5 | | 
+test_timestep_100 | | 
+velocityField-100.h5 | | 
+ArcTracers-100.h5 | | 
+ArcTracers-100.xdmf | | 
+ArcTracers_Arc nodes velocity_X-100.h5  | | 
+ArcTracers_Arc nodes velocity_Y-100.h5 | | 
+ArcTracers_Arc stress tensor_X-100.h5 | | 
+ArcTracers_Arc stress tensor_XY-100.h5 | | 
+ArcTracers_Arc stress tensor_Y-100.h5 | | 
+ArcTracers_Time_Arc-100.h5 | | 
+ArcTracers_arc overriding plate strain rate-100.h5 | | 
+ArcTracers_arc overriding plate stress Field-100.h5 | | 
+ArcTracers_global_index-100.h5 | | 
+CratonTracers-100.h5 | | 
+CratonTracers-100.xdmf | | 
+CratonTracers_Craton stress tensor_X-100.h5  | | 
+CratonTracers_Craton stress tensor_XY-100.h5 | | 
+CratonTracers_Craton stress tensor_Y-100.h5 | | 
+CratonTracers_Cratonic overriding plate velocity _X-100.h5 | | 
+CratonTracers_Cratonic overriding plate velocity_Y-100.h5  | | 
+CratonTracers_Time_SP-100.h5 | | 
+CratonTracers_global_index-100.h5 | | 
+OPTracers-100.h5 | | 
+OPTracers-100.xdmf | | 
+OPTracers_Time_OP-100.h5 | | 
+OPTracers_Weak overriding plate strain rate-100.h5  | | 
+OPTracers_Weak overriding plate stress Field-100.h5 | | 
+OPTracers_Weak overriding plate stress tensor_X-100.h5 | | 
+OPTracers_Weak overriding plate stress tensor_XY-100.h5 | | 
+OPTracers_Weak overriding plate stress tensor_Y-100.h5 | | 
+OPTracers_Weak overriding plate velocity_X-100.h5 | | 
+OPTracers_Weak overriding plate velocity_Y-100.h5 | | 
+OPTracers_global_index-100.h5 | | 
+SPTracers-100.h5 | | 
+SPTracers-100.xdmf | | 
+SPTracers_Subducting plate velocity_X-100.h5 | | 
+SPTracers_Subducting plate velocity_Y-100.h5 | | 
+SPTracers_Time_SP-100.h5 | | 
+SPTracers_global_index-100.h5 | | 
+
 
 
 </p>
