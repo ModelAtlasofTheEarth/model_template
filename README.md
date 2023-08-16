@@ -112,7 +112,7 @@ Model output data
 
 **Metadata  Tags**
 
-- [ ] this submission  includes model output data
+- [X] this submission  includes model output data
 
 > **Note**
 > If the above box is ticked, the M@TE team will contact you with details for uploading data to the NCI M@TE Server
