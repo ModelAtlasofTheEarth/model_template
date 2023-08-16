@@ -21,7 +21,7 @@ How model submission works...
 </p>
 </details>
 
-About your model
+Model Overview
 -----
 
 <details><summary>CLICK TO EXPAND</summary>
