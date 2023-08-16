@@ -15,8 +15,7 @@ How model submission works...
 * Final step?
 
 > **Note**
-> The Wiki provides more detailed information on submission. 
-> Create a Github Issue if you have problems or questions. 
+> The Wiki provides more detailed information on submission. Create a Github Issue if you have problems or questions. 
 
   
 </p>
@@ -87,10 +86,9 @@ Field | Value | Notes
 
 
 > **Note**
-> Please add any addition files relate to model execution, reproduction and postprocessing to the `model_files` folder
-> Describe these files in the table below.
+> Please add any additional files relate to model execution, reproduction and postprocessing to the `model_files` folder. Describe these files in the **File Description** table below.
 
-**Model  files**
+**File Description**
 
 Filename/pattern| Description | Notes
 --- | --- | ---
@@ -116,9 +114,7 @@ Model output data
 - [ ] this submission  includes model output data
 
 > **Note**
-> If the above box is ticked, the M@TE team will contact you with details for uploading data.
-> Please fill out the **metadata** fields below.
-> If possible, please desribe output data files using the **Output data files**
+> If the above box is ticked, the M@TE team will contact you with details for uploading data. Please fill out the **Metadata fields** Tables below.  Please desribe output data files using the **Output data files** Table. 
   
 **Metadata fields**
 
@@ -132,11 +128,15 @@ Field | Value | Notes
 **additional notes** | E.g., output data ar saved at time/step increments of (100 Kyr) | 
 
 
-**Output data files**
+> **Note**
+> Model output data is _Not_ submitted through Github. However the **File Description** Table provides a place to descibe the nature of the files. Include anything that migth be useful,  datum or reference, units, nature of the data (scalar/vector/tensor), order of components. 
+
+**File Description**
 
 Filename/of File pattern| Description | Notes
 --- | --- | ---
-E.g. `velocity_**.h5`, `topography.csv` | description of data associated with this output file type (add rows as needed)  | 
+E.g. `velocity_**.h5`, | E.g. velocity field on mesh nodes, units cm/y.  | 
+`topography.csv`  | E.g. topography relative to initial (undeformed) upper boundary of model, units m  | 
 
 
 </p>
@@ -151,9 +151,9 @@ Website material
 
 
 > **Note**
-> To feature your model on our website (<https://mate.science>), we will require some images/animations and captions.
-> Please add `web_files` folder, and describe these files using the following table.
-> The `Purpose' field will be used to direct the content. You do not need to supply all of these, and you may supply multiple files with same purpose, in which case we can scroll images. 
+> To feature your model on our website (<https://mate.science>), we will require some images/animations and captions. Please add to the `web_files` folder, and describe these files using the following **File Description**. The `Purpose` field will be used to direct the content. You do not need to supply all of these, and you may supply multiple files with same purpose, in which case we can scroll images. 
+
+**File Description**
 
 File | Purpose | Caption
 --- | --- | ---
@@ -164,8 +164,7 @@ File | Purpose | Caption
 
 
 > **Note**
-> Acceptible formats: JPEG, PNG, PDF, AVI, GIF, MP4
-> Total size of files will be limited by Github repository constraints
+> Acceptible formats: JPEG, PNG, PDF, AVI, GIF, MP4. Total size of files will be limited by Github repository constraints
 
 
 
