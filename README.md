@@ -159,8 +159,8 @@ Website material
 File | Purpose | Caption
 --- | --- | ---
 `image1.png` | landing page image | Caption for `image1.png`, Lorem ipsum dolor sit ame
-`filex.png` | visual abstract |  Caption for `filex.jpg`
-`figx.jpeg` | model setup | Caption of `figx.jpeg``
+`filex.png` | visual abstract |  Schematic illustration of initial model conditions and subsequent post-collisional evolution of the two identified styles of arc-continent collision, whose dynamics are controlled by arc transference and slab-anchoring in less buoyant remnant arcs (see publication for further detail)
+`figx.jpeg` | model setup | (a) Model set up for numerical simulations based on previous research in the dynamics of accretionary continental margins (Moresi et al., 2014). It includes an oceanic subducting plate (dark yellow), an overriding plate composed by a continental (cyan) and cratonic domain (dark blue), and a ribbon of thicker crust representing a remnant = intra-oceanic arc attached to the oceanic plate (red). The upper mantle and the upper-lower mantle boundary are included to capture deep-mantle slab interactions. Orange, yellow, and dark green dots show locations where subducting plate convergence velocity, the trench-retreat velocity and the overriding plate (OP) retreat velocity were measured. The (b–e) profiles show a schematic lithospheric cross-section of the domains considered in our model set-up (see publication for further detail).
 `model_animation.avi` | animation | Caption for of `model_animation.avi`
 
 
@@ -184,7 +184,7 @@ Attribution
 
 Field | Value | Notes
 --- | --- | ---
-**Associated publication DOI** | DOI | 
+**Associated publication DOI** | [DOI](https://doi.org/10.1029/2022GC010386) | 
 **Funder(s)** |  Australian Research Council's ITRH Project IH130200012 and DP150102887. AFRC was supported by a scholarship from the Colombian Government (Ministerio de Ciencia, Tecnología, e Innovación, 783), a research grant from the Colombian Association of Petroleum Geologists and Geophysicists (Asociación Colombiana de Geólogos y Geofísicos del Petróleo) fund and a top-up scholarship form the University of Melbourne (Baragwanath scholarship).  This work was enabled by Auscope, the Nectar Research Cloud and the National Computational Infrastructure (projects m18, mw52), which are supported by the Australian Government via the National Collaborative Research Infrastructure Strategy (NCRIS). | 
 **Author(s)** | Refer to publication | 
 **Licence** |  E.g., <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. | 
