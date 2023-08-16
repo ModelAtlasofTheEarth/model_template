@@ -67,7 +67,7 @@ The following fields provide information and references for sources and processe
 Field | Value | Notes
 --- | --- | ---
 **software framework** |UWGeodynamics  | 
-**software version** |  |
+**software version** | |
 **source code link** |  https://github.com/underworldcode/UWGeodynamics | 
 **input datasets** | None | 
 **computer details** | E.g., cluster name, Operating System, MPI version, number of cores  | 
@@ -83,7 +83,7 @@ Field | Value | Notes
 - [X] this submission includes input files
 - [X] this submission includes postprocessing files
 - [ ] this submission includes a software container (i.e. docker image or dockerfile)
-
+- [ ] postprocessing files are linked to M@TE Server (NCI GeoNetwork) through thredds/OpenDap
 
 
 
@@ -91,8 +91,10 @@ Field | Value | Notes
 
 Filename/pattern| Description | Notes
 --- | --- | ---
- E.g., `model_reproduction/input.py` (add rows as needed)  | E.g., a description `model_reproduction/input.py`   | Additional info | 
-
+`SubductionTransference_Mechanical_25Km-WeakerLM.ipynb`  | Jupyter notebook to run model with 25 km thick arc-crust   | Additional info | 
+`ModelGeometry.py` | python script with functions/variables requied by `SubductionTransference_Mechanical_25Km-WeakerLM.ipynb` | 
+`MechanicalProperties.py` | python script with functions/variables requied by `SubductionTransference_Mechanical_25Km-WeakerLM.ipynb | 
+`Figure_6_Kinematics_Analysis.ipynb` | Jupyter notebook containing workflow to recreate Fig. 6 of Corcho. et al 2022 |
 
 
 </p>
