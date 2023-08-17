@@ -11,13 +11,13 @@ How model submission works...
 * Name your repository using this convention:
    * `creatorname_year_keyword` (e.g. `corcho_2022_collision`)
 * populate this markdown document (`Readme.md`) with as much information as you can
-* information is recorded in 3 structures:
-    * Metadata field (markdown tables)
-    * Metadata Tags (markdown checkboxes)
-    * File Desctription (markdown tables)
-* To fill in the information, you need to physically edit the plaintext (markdown). You can do this diretcly through githb, or on your device with a plain text editor.   
-* add files to the `model_files` and `web_file` subfolders.
-* Once you have completed these steps, you can submit your model back to out organisation <https://github.com/ModelAtlasofTheEarth>
+* information is recorded in 3 recurring structures:
+    * **Metadata Fields** (markdown tables)
+    * **Metadata Tags** (markdown checkboxes)
+    * **File Description** (markdown tables)
+* you need to physically edit the plaintext (markdown). You can do this directly through github, or on your device with a plain text editor.   
+* add any files to the `model_files` and `web_file` subfolders.
+* once you have completed these steps, you can submit your model back to out organisation <https://github.com/ModelAtlasofTheEarth>
 
 > **Note**
 > The Wiki provides more detailed information on submission. Create a Github Issue if you have problems or questions. 
@@ -119,28 +119,28 @@ Model output data
 - [ ] this submission  includes model output data
 
 > **Note**
-> If the above box is ticked, the M@TE team will contact you with details for uploading data. Please fill out the **Metadata fields** Tables below.  Please desribe output data files using the **Output data files** Table. 
+> If the above box is ticked, the M@TE team will contact you with details for uploading data. Please fill out the **Metadata fields** Tables below.  Please describe output data files using the **File Description** Table. 
   
 **Metadata fields**
 
 Field | Value | Notes
 --- | --- | ---
 **Dataset format** | File format used for this dataset. e.g., NetCDF4, CSV, GeoTIFF, etc. | 
-**Temporal extents (if applicable)** | e.g.,  Begin time (YYYY/MM/DD, or 50 Myr)  End time (YYYY/MM/DD, or 20 Myr) | ---
-**Spatial extents (if applicable)** | e.g.,  west bounding longitude (degrees), east bounding longitude (degrees)| ---
+**Temporal extents (if applicable)** | e.g., Begin time (YYYY/MM/DD, or 50 Myr)  End time (YYYY/MM/DD, or 20 Myr) | ---
+**Spatial extents (if applicable)** | e.g.,  west bounding longitude (degrees), east bounding longitude (degrees), ...| ---
 **Local NCI file path** | Completed once data are available on NCI Geonetwork Catalog | 
-**DOI (NCI Internal Field)** |Completed once data are available on NCI Geonetwork Catalog | 
+**DOI (NCI Internal Field)** | Completed once data are available on NCI Geonetwork Catalog | 
 **additional notes** | E.g., output data ar saved at time/step increments of (100 Kyr) | 
 
 
 > **Note**
-> Model output data is _Not_ submitted through Github. However the **File Description** Table provides a place to descibe the nature of the files. Include anything that migth be useful,  datum or reference, units, nature of the data (scalar/vector/tensor), order of components. 
+> Model output data is _Not_ submitted through Github. However the **File Description** Table provides a place to descibe those files. Include anything that might be useful for the community (or your future self): datum or reference values, units, nature of the data (scalar/vector/tensor), order of components. 
 
 **File Description**
 
 Filename/of File pattern| Description | Notes
 --- | --- | ---
-E.g. `velocity_**.h5`, | E.g. velocity field on mesh nodes, units cm/y.  | 
+E.g. `velocity_**.h5`, | E.g. velocity field on mesh nodes, units cm/y, first component is horizontal, second component is vertical (positive up)  | 
 `topography.csv`  | E.g. topography relative to initial (undeformed) upper boundary of model, units m  | 
 
 
