@@ -7,7 +7,7 @@ How model submission works...
 <p>
 
 
-* create a new repository, by clicking on the __Use this template__ button above
+* create a new repository by clicking on the __Use this template__ button above
 * name your repository using this convention:
    * `creatorname_year_keyword` (e.g. `corcho_2022_collision`)
 * populate this markdown document (`Readme.md`) with as much information as you can
@@ -17,7 +17,7 @@ How model submission works...
     * **File Description** (markdown tables)
 * you need to physically edit the markdown (plain text). You can do this directly through github, or on your device with a plain text editor.
     * Many of the fields have place holder / example text to help guide you. Delete this text and replace with your own.   
-* add any files to the `model_files` and `web_file` subfolders.
+* add any files to the `model_files` and `web_files` subfolders.
 * once you have completed these steps, you can submit your model back to M@TE <https://github.com/ModelAtlasofTheEarth>
 
 > **Note**
@@ -67,7 +67,7 @@ Model computation and reproduction
 **Metadata fields**
 
 
-The following fields provide information and references for sources and processes that were used to create the dataset and an audit trail for modifications to the original data.  Provide web references, DOIs, Github links, etc. on any of the components that went into the generation of the dataset. Please provide versioning wherever possible or relevant. Examples may include: software packages, programs of work, input datasets.
+The following fields provide information and references for sources and processes that were used to create the dataset.  Provide software and computing details, versioning, web references, DOIs, Github links, input datasets etc. on any of the components and workflows that went into the generation of the dataset. 
 
 
 Field | Value | Notes
@@ -84,8 +84,9 @@ Field | Value | Notes
 **Metadata  Tags**
 
 - [ ] this submission includes input files
-- [ ] this submission includes a software container (i.e. docker image or dockerfile)
+- [ ] this submission includes a software container or environent file for __running the model__ (i.e. docker image, dockerfile, conda environment.yml)
 - [ ] this submission includes postprocessing files
+- [ ] this submission includes a software container or environent file __for postprocessing__
 - [ ] postprocessing files are linked to data on the NCI's GeoNetwork (through thredds/OPeNDAP API)
 
 
