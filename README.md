@@ -156,7 +156,7 @@ Website material
 
 
 > **Note**
-> To feature your model on our website (<https://mate.science>), we will require some images/animations and captions. Please add to the `web_files` folder, and describe these files using the following **File Description**. The `Purpose` field will be used to direct the content. You do not need to supply all of these, and you may supply multiple files with same purpose, in which case we can scroll images. 
+> To feature your model on our website (<https://mate.science>), we will require some images/animations and captions. Please add files to the `web_files` folder, and describe these files using the following **File Description** Table. The **Purpose** field will be used to help direct the content. You do not need to supply all of these, and you may supply multiple files with the same purpose.
 
 **File Description**
 
