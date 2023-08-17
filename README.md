@@ -100,6 +100,8 @@ Filename/pattern| Description | Notes
 --- | --- | ---
 E.g., `model_files/input.py` (add rows as needed) |  E.g., description of `model_files/input.py`  | 
 E.g., `model_files/Dockerfile` (add rows as needed) | E.g., description of `model_files/Dockerfile`  | E.g., link to existing image on Dockerhub
+E.g., `log.txt` | E.g., Logfile from original model execution on NCI Gadi  | 
+
 
 
 
@@ -135,11 +137,11 @@ Field | Value | Notes
 
 
 > **Note**
-> Model output data is _Not_ submitted through Github. However the **File Description** Table provides a place to descibe those files. Include anything that might be useful for the community (or your future self): datum or reference values, units, nature of the data (scalar/vector/tensor), order of components. 
+> Model output data is _Not_ submitted through Github. However the **File Description** Table provides a place to describe those files. Include anything that might be useful for the community (or your future self): datum or reference values, units, nature of the data (scalar/vector/tensor), order of components. 
 
 **File Description**
 
-Filename/of File pattern| Description | Notes
+Filename/File pattern| Description | Notes
 --- | --- | ---
 E.g. `velocity_**.h5`, | E.g. velocity field on mesh nodes, units cm/y, first component is horizontal, second component is vertical (positive up)  | 
 `topography.csv`  | E.g. topography relative to initial (undeformed) upper boundary of model, units m  | 
