@@ -1,6 +1,6 @@
-name: 🦠 Model Request
+name: 🌋M@TE🌋 Model Request
 description: Request a model to be included in the hub
-title: "🦠 Model Request: <name>"
+title: "M@TE Model Request: <name>"
 labels: [new-model]
 
 body:
@@ -13,7 +13,7 @@ body:
     attributes:
       label: Model Name
       description: "Suggest a name for your model"
-      placeholder: "Antimicrobial activity prediction"
+      placeholder: "Expanding Earth"
     validations:
       required: true
 
@@ -22,7 +22,7 @@ body:
     attributes:
       label: Model Description
       description: "Please provide a short description of your model"
-      placeholder: "Prediction of the E.coli in vitro growth inhibition potential of small molecules"
+      placeholder: "It really is"
     validations:
       required: true
 
@@ -43,7 +43,7 @@ body:
     attributes:
       label: License
       description: "If there is a license, please provide the name of the license (or None if there is no license specified). Please check our [model repository](https://airtable.com/shrUcrUnd7jB9ChZV) to explore valid licenses."
-      placeholder: "MIT"
+      placeholder: "CC-BY-4.0"
     validations:
       required: true
 
