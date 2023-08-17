@@ -15,7 +15,8 @@ How model submission works...
     * **Metadata Fields** (markdown tables)
     * **Metadata Tags** (markdown checkboxes)
     * **File Description** (markdown tables)
-* you need to physically edit the plaintext (markdown). You can do this directly through github, or on your device with a plain text editor.   
+* you need to physically edit the plaintext (markdown). You can do this directly through github, or on your device with a plain text editor.
+    * Many of the fields have placehoder/example text to help guide you. Delete this text and replace with your own.   
 * add any files to the `model_files` and `web_file` subfolders.
 * once you have completed these steps, you can submit your model back to out organisation <https://github.com/ModelAtlasofTheEarth>
 
@@ -36,7 +37,7 @@ About your model
 
 Field | Value | Notes
 --- | --- | ---
-**Title** | _A brief title for your model_ | ...
+**Title** | E.g., my new expanding earth model | ...
 **Abstract** | _An abstract for your model (preferrably plain language)_ | 
 **Keywords** | _keyword 1_ (add rows as needed) | 
 **Field of research (FOR) code** | E.g., 3706 ( see <https://vocabs.ardc.edu.au/viewById/316>)  (add rows as needed |
@@ -91,13 +92,14 @@ Field | Value | Notes
 
 
 > **Note**
-> Please add any additional files relate to model execution, reproduction and postprocessing to the `model_files` folder. Describe these files in the **File Description** table below.
+> Please add any additional files (related to model execution, reproduction and postprocessing) to the `model_files` folder. Describe these files in the **File Description** table below.
 
 **File Description**
 
 Filename/pattern| Description | Notes
 --- | --- | ---
-**file description** | E.g., `model_files/input.py` (add rows as needed) | description of E.g., `model_files/input.py`  | Additional Info.
+E.g., `model_files/input.py` (add rows as needed) | description of E.g., `model_files/input.py`  | 
+E.g., `model_files/Dockerfile` (add rows as needed) | description of E.g., `model_files/Dockerfile`  | E.g., Link to existing image on Dockerhub
 
 
 
