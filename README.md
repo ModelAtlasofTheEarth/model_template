@@ -88,7 +88,7 @@ Field | Value | Notes
 - [ ] this submission includes input files
 - [ ] this submission includes a software container (i.e. docker image or dockerfile)
 - [ ] this submission includes postprocessing files
-- [ ] postprocessing files are linked to data on the NCI's GeoNetwork (through thredds/OpenDap API)
+- [ ] postprocessing files are linked to data on the NCI's GeoNetwork (through thredds/OPeNDAP API)
 
 
 > **Note**
@@ -98,8 +98,8 @@ Field | Value | Notes
 
 Filename/pattern| Description | Notes
 --- | --- | ---
-E.g., `model_files/input.py` (add rows as needed) | description of E.g., `model_files/input.py`  | 
-E.g., `model_files/Dockerfile` (add rows as needed) | description of E.g., `model_files/Dockerfile`  | E.g., Link to existing image on Dockerhub
+E.g., `model_files/input.py` (add rows as needed) |  E.g., description of `model_files/input.py`  | 
+E.g., `model_files/Dockerfile` (add rows as needed) | E.g., description of `model_files/Dockerfile`  | E.g., link to existing image on Dockerhub
 
 
 
@@ -127,7 +127,6 @@ Model output data
 
 Field | Value | Notes
 --- | --- | ---
-**Dataset format** | File format used for this dataset. e.g., NetCDF4, CSV, GeoTIFF, etc. | 
 **Temporal extents (if applicable)** | e.g., Begin time (YYYY/MM/DD, or 50 Myr)  End time (YYYY/MM/DD, or 20 Myr) | ---
 **Spatial extents (if applicable)** | e.g.,  west bounding longitude (degrees), east bounding longitude (degrees), ...| ---
 **Local NCI file path** | Completed once data are available on NCI Geonetwork Catalog | 
