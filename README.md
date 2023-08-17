@@ -11,8 +11,13 @@ How model submission works...
 * Name your repository using this convention:
    * `creatorname_year_keyword` (e.g. `corcho_2022_collision`)
 * populate this markdown document (`Readme.md`) with as much information as you can
-  * information is recorded in Markdown Tables (Metadata fields) and additional Metadata Tags.
-* Final step?
+* information is recorded in 3 structures:
+    * Metadata field (markdown tables)
+    * Metadata Tags (markdown checkboxes)
+    * File Desctription (markdown tables)
+* To fill in the information, you need to physically edit the plaintext (markdown). You can do this diretcly through githb, or on your device with a plain text editor.   
+* add files to the `model_files` and `web_file` subfolders.
+* Once you have completed these steps, you can submit your model back to out organisation <https://github.com/ModelAtlasofTheEarth>
 
 > **Note**
 > The Wiki provides more detailed information on submission. Create a Github Issue if you have problems or questions. 
