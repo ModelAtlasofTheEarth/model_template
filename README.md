@@ -95,7 +95,7 @@ Field | Value | Notes
 
 **File Description**
 
-Filename/pattern| Description | Notes
+Filename/pattern | Description | Notes
 --- | --- | ---
 E.g., `model_files/input.py` (add rows as needed) |  E.g., description of `model_files/input.py`  | 
 E.g., `model_files/Dockerfile` (add rows as needed) | E.g., description of `model_files/Dockerfile`  | E.g., link to existing image on Dockerhub
@@ -106,8 +106,6 @@ E.g., `log.txt` | E.g., Logfile from original model execution on NCI Gadi  |
 
 </p>
 </details>
-
-
 
 
 Model output data
@@ -140,9 +138,9 @@ Field | Value | Notes
 
 **File Description**
 
-Filename/File pattern| Description | Notes
+Filename/pattern | Description | Notes
 --- | --- | ---
-E.g. `velocity_**.h5`, | E.g. velocity field on mesh nodes, units cm/y, first component is horizontal, second component is vertical (positive up)  | 
+E.g. `velocity_**.h5`, | E.g. velocity field on mesh nodes, units cm/y, first component is horizontal, second component is vertical (positive up), files saved at 1 Ma intervals  | 
 `topography.csv`  | E.g. topography relative to initial (undeformed) upper boundary of model, units m  | 
 
 
