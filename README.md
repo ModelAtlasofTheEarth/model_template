@@ -37,7 +37,7 @@ About your model
 
 Field | Value | Notes
 --- | --- | ---
-**Title** | E.g., my new expanding earth model | ...
+**Title** | E.g., _my new expanding earth model_ | E.g. additional notes, including problems/questions arising
 **Abstract** | _An abstract for your model (preferrably plain language)_ | 
 **Keywords** | _keyword 1_ (add rows as needed) | 
 **Field of research (FOR) code** | E.g., 3706 ( see <https://vocabs.ardc.edu.au/viewById/316>)  (add rows as needed) |
