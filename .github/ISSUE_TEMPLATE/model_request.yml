@@ -46,4 +46,16 @@ body:
       placeholder: "CC-BY-4.0"
     validations:
       required: true
-
+      
+---
+# Why not to use this (Presentation Model):
+name: users
+content: !!fmap |
+  * [     id, name    , type , gender  ]
+  - [     1 , Leonardo, Human, male    ]
+  - [       , M. Carre,       ,        ]
+  - [       ,         , iro   ,        ]
+  - [     10, Isadora , Human , female ]
+  - [2654895, Princesa, Dog   , female ]
+  - [2654896, Pitoco  , Dog   , male   ]
+...
