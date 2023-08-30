@@ -132,12 +132,11 @@ Model output data
 Field | Value | Notes
 --- | --- | ---
 **Summary of dataset** | Pitch for the general user and not just the content expert. Helpful things would include: summary of the dataset, high-level description of the dataset contents, and why this dataset might be useful to experts and non-experts. | ---
-
+**additional notes** | Information and references for sources and processes that were used to create the dataset. | 
 **Temporal extents (if applicable)** | e.g., Begin time (YYYY/MM/DD, or 50 Myr)  End time (YYYY/MM/DD, or 20 Myr) | ---
 **Spatial extents (if applicable)** | e.g.,  west bounding longitude (degrees), east bounding longitude (degrees), ...| ---
 **Local NCI file path** | Completed once data are available on NCI Geonetwork Catalog | 
 **DOI (NCI Internal Field)** | Completed once data are available on NCI Geonetwork Catalog | 
-**additional notes** | E.g., output data ar saved at time/step increments of (100 Kyr) | 
 
 
 > **Note**
